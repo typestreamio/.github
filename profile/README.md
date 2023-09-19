@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-Coming soon ™️
+TypeStream is now open source 🎉. Check out the repo [here](https://github.com/typestreamio/typestream)
